@@ -41,3 +41,5 @@ print('nilai a sebulum di resize =', a.shape)
 a.resize(3, 2)
 print(a)
 print('nilai a sesudah di resize =', a.shape)
+
+# Danang Haris Setiawan
