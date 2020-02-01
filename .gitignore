@@ -17,6 +17,7 @@ venv.bak/
 pip-selfcheck.json
 ENV/*
 haris.js
+Env/
 
 ### VisualStudioCode ###
 .vscode/*
